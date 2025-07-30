@@ -13,6 +13,7 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+
 #lista de URLs a bloquear
 
 0.0.0.0 7reelz.com
