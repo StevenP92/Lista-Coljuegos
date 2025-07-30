@@ -16,6 +16,11 @@ ff02::3 ip6-allhosts
 #lista de URLs a bloquear
 
 0.0.0.0 7reelz.com
+0.0.0.0 www.7reelz.com
+0.0.0.0 es.7reelz.com
+0.0.0.0 static.7reelz.com
+0.0.0.0 cdn.7reelz.com
+0.0.0.0 images.7reelz.com
 0.0.0.0 bet365.com
 0.0.0.0 sunvegascasino.com
 0.0.0.0 winwardcasino.ag
@@ -26916,4 +26921,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 lex-casino52.com
 0.0.0.0 colombia.enjoy-online.com
 0.0.0.0 1win.com.ph
-0.0.0.0 7reelz.com
